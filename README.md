@@ -14,6 +14,9 @@ grp_optimization.add("weight_max_steering_rate", double_t, 0,
   10, 10, 100)
   
   in rosrun rqt_reconfigure rqt_reconfigure
+  
   weight_obstacle = 200
+  
   min_turning_radius = 50
+  
   wheelbase = 1
